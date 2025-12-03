@@ -9,19 +9,19 @@ Jin Oil is a petroleum exploration and production company with operations across
 🎯 PURPOSE OF THE DASHBOARD
 
 The dashboard provides executives, managers, and analysts with a comprehensive view of operational and financial performance. It enables Jin Oil to:
-.  Monitor total revenue trends over time.
-.  Track the number of wells owned and operated.
-.  Compare regional revenue contributions.
-.  Analyze product-level revenue performance.
+-  Monitor total revenue trends over time.
+-  Track the number of wells owned and operated.
+-  Compare regional revenue contributions.
+-  Analyze product-level revenue performance.
 
 🗂️ DATA SOURCES
 
 The dashboard is built from Jin Oil’s raw datasets, including:
 
-.  Production Data → Daily/Monthly output from wells.
-.  Revenue Data → Sales transactions and financial records.
-.  Regional Data → Geographic segmentation of operations.
-.  Product Data → Revenue streams from different petroleum products.
+-  Production Data → Daily/Monthly output from wells.
+-  Revenue Data → Sales transactions and financial records.
+-  Regional Data → Geographic segmentation of operations.
+-  Product Data → Revenue streams from different petroleum products.
 
 📊 KEY KPI'S
 
@@ -39,10 +39,10 @@ Interactive Filters → Drill down by year, region, or product category.
 
 Visualizations:
 
-.  Line Chart → Revenue trend over time.
-.  Card Visual → Total revenue and total wells owned.
-.  Bar/Column Chart → Revenue by product.
-.  Tooltips & Highlights → Contextual insights when hovering over visuals.
+-  Line Chart → Revenue trend over time.
+-  Card Visual → Total revenue and total wells owned.
+-  Bar/Column Chart → Revenue by product.
+-  Tooltips & Highlights → Contextual insights when hovering over visuals.
 
 ⚙️ USAGE NOTES
 
@@ -57,10 +57,10 @@ The dashboard is optimized for both executive summaries and detailed operational
 ✅ BUSINESS VALUE
 
 This Power BI dashboard empowers Jin Oil to:
-.  Identify high-performing regions and products.
-.  Optimize resource allocation across wells.
-.  Detect seasonal or regional revenue trends.
-.  Support strategic planning and investment decisions with real-time insights.
+-  Identify high-performing regions and products.
+-  Optimize resource allocation across wells.
+-  Detect seasonal or regional revenue trends.
+-  Support strategic planning and investment decisions with real-time insights.
 
 📌 Conclusion
 
